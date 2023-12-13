@@ -1,8 +1,8 @@
 [
     {
-    client_id = '894d0857540740438d1ef159b85774bc'
-    client_secret = '7b92c99a70c245299dd709e4ec59ea46'
-    "redirect_uri" 'https: //www.example.com/succses'
-    "scope" : "user-read-playback-state,user-modify-playback-state"
+    "client_id" : "894d0857540740438d1ef159b85774bc"
+    "client_secret" : "7b92c99a70c245299dd709e4ec59ea46"
+    "redirect_uri" :"https: //www.example.com/succses"
+    "scope" :"user-read-playback-state,user-modify-playback-state"
     }
 ]
